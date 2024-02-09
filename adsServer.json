@@ -1,0 +1,16 @@
+{
+  "bannerAdmob": "",
+  "interAdmob": "",
+  "rewordAdmob": "",
+  "sdkKey": "",
+  "bannerApplovin": "",
+  "interApplovin": "",
+  "rewordApplovin": "",
+  "gameId": "",
+  "bannerUnity": "Banner_Android",
+  "interUnity": "Interstitial_Android",
+  "rewordUnity":"Rewarded_Android",
+  "bannerFan": "",
+  "interFan": "",
+  "rewordFan":""
+}

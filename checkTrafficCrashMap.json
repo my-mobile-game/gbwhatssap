@@ -2,5 +2,8 @@
     "enableTraffic": false,
     "enableCrash": false,
     "enableMap1": false,
-    "enableMap2": false
+    "enableMap2": false,
+    "bannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+    "interAdmob": "ca-app-pub-3940256099942544/1033173712",
+    "rewordAdmob": "",
 }

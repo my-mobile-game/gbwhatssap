@@ -1,6 +1,6 @@
 {
-    "enableTraffic": true,
-    "enableCrash": true,
+    "enableTraffic": false,
+    "enableCrash": false,
     "enableMap1": true,
     "enableMap2": true,
     "bannerAdmob": "ca-app-pub-3940256099942544/6300978111",

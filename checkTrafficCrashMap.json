@@ -1,6 +1,6 @@
 {
     "enableTraffic": false,
-    "enableCrash": true,
+    "enableCrash": false,
     "skipValidation":true,
     "enableMap1": false,
     "enableMap2": true,
